@@ -1,0 +1,17 @@
+@media screen and (min-width: 626px) {
+  .profileuse {
+      position: relative;
+  }
+  .profile.details {
+      margin: 3rem;
+      position: relative;
+  }
+}
+
+.total {
+  margin: 1rem;
+}
+
+.user {
+  margin: 1rem;
+}
